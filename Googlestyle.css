@@ -1,0 +1,108 @@
+.zgoraj{
+    position: absolute;
+    right: 0;
+    width: 200px;
+    top: 15px;
+    font-family: arial, sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+.zgoraj a{
+    text-decoration: none;
+    color: black;
+    padding-right: 15px;
+}
+
+.zgoraj a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.sredina {
+    height: 300px;
+    width: 600px;
+    position:relative;
+    margin-right: auto;
+    margin-left: auto;
+    top: 180px;
+    text-align: center;
+}
+
+#slikca{
+    height: 150px;
+}
+
+div p {
+    display: inline-block;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+.gumbi {
+    font-family: arial;
+    font-size: 16px;
+}
+
+#iskalnik {
+    margin-top: 10px;
+    width: 480px;
+    height: 30px;
+}
+
+input {
+    height: 25px;
+    width: 600px;
+}
+
+button {
+    height: 30px;
+    font-size: 12px;
+    font-family: inherit;
+}
+
+
+.spodaj{
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 40px;
+    border-top: 1px solid lightgray;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.levo{
+    position: absolute;
+    left: 0;
+    width: 300px;
+    margin-top: 10px;
+}
+
+.levo a{
+    padding-left: 25px;
+    color: #444;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+.desno{
+    position: absolute;
+    right: 0;
+    width: 400px;
+    margin-top: 10px;
+}
+
+.desno a{
+    padding-right: 20px;
+    color: #444;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+.desno a:hover{
+    color: black;
+    text-decoration: underline;
+}
